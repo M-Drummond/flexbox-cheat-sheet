@@ -1,0 +1,12 @@
+<template>
+
+    <svg fill="currentColor" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         viewBox="0 0 455 455" xml:space="preserve">
+        <g>
+            <rect y="312.5" width="455" height="30" />
+            <rect y="212.5" width="455" height="30" />
+            <rect y="112.5" width="455" height="30" />
+        </g>
+    </svg>
+</template>
