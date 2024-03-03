@@ -5,6 +5,7 @@
      <Example1 />
     <Example2 />
     <ExampleForm />
+    <ExampleGrid />
 
   </main>
 
@@ -18,6 +19,7 @@
 import Example1 from './components/Example1.vue';
 import Example2 from './components/Example2.vue';
 import ExampleForm from './components/ExampleForm.vue';
+import ExampleGrid from './components/ExampleGrid.vue';
 
 
 
